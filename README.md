@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @IUseAll16Letters
-- 👀 I’m interested in demagnetizing planetar poles
-- 🌱 I’m currently learning Pythoing
-- 💞️ I’m looking to collaborate on unofficial goverment experiment
+- 👋 Hi, I’m @IUseAll16Letters;
+- 👀 I’m interested in demagnetizing planetary poles;
+- 🌱 I’m currently learning Pythoing;
+- 💞️ I’m looking to collaborate on unofficial goverment experiment;
 - 📫 How to reach me ".. build it and they will come."
 
 <!---
